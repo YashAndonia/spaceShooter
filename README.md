@@ -12,7 +12,7 @@ You are controlling a spaceship and traversing through space, as enemy spaceship
 Fight back by shooting and avoiding them! Get as far as you can!
 
 
-![Demo](https://user-images.githubusercontent.com/26602639/45816512-732ce200-bcf9-11e8-8ab6-86bca3d234a0.gif)
+![Demo](https://user-images.githubusercontent.com/26602639/45920630-a7a0c980-bec4-11e8-92f6-51064bc9e8f5.gif)
 
 
 Control: Arrow Keys/WASD
