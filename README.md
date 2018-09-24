@@ -1,5 +1,11 @@
 # spaceShooter
 
+Heres the Link to the entire file!
+
+https://drive.google.com/drive/folders/1U0JQgzey_vFv9CBbN996fuc3kuKfrU3T?usp=sharing
+
+
+
 It's time to play!
 
 
@@ -17,5 +23,3 @@ Fight back by shooting and avoiding them! Get as far as you can!
 
 Control: Arrow Keys/WASD
 Shooting: Space bar
-
-P.S. I could not add the code,as the files are too big!
