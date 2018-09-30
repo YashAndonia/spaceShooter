@@ -38,3 +38,9 @@ There are all in all 4 major working parts in this project:
 5) The Bullet: The bullet is fired from the Player and the enemy. It's mass and speed of exit from the bullet_emitter is variable
 
 6) bulletEmitter: The bullet Emitter is the point from where the bullet is fired, upon pressing spacebar.It is placed under enemy and player space
+
+
+
+# UPDATE!
+I have fixed the bullet going through block problem!
+Also, the long levels are being created now- so keep updated!
