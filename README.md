@@ -1,6 +1,12 @@
 # spaceShooter
 
-Heres the Link to the entire file!
+Here's a link to the game! Have fun!
+https://drive.google.com/drive/folders/1mAzcgBLQ-2JRuRIqB4gFnEDyIEtjTsN3?usp=sharing
+
+
+
+
+Heres the Link to the entire game unity file!
 
 https://drive.google.com/drive/folders/1U0JQgzey_vFv9CBbN996fuc3kuKfrU3T?usp=sharing
 
